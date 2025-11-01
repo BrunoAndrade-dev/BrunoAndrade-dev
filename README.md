@@ -1,4 +1,4 @@
-# Olá! Eu sou [Bruno Andrade] 👋
+# Olá! Eu sou Bruno Andrade 👋
 
 Sou um acadêmico de Engenharia de Computação com paixão por Análise de Dados e Desenvolvimento Web. Atualmente, faço parte do Laboratório de Engenharia Aplicada (LEA), atuando com Análise de Dados Sociais em Python.
 
@@ -34,7 +34,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
 ---
 
 ### Contato
-**LinkedIn:** [Bruno Raphael Andrade Santos](www.linkedin.com/in/bruno-raphael-andrade-48816b334)
+**LinkedIn:** Bruno Raphael Andrade Santos(www.linkedin.com/in/bruno-raphael-andrade-48816b334)
 **Email:** brunorafha4@gmail.com
 
 
