@@ -13,7 +13,13 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </p>
+</p>
+
+### Desenvolvimento Back-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+</p>
 
 ### Data Science, Machine Learning & Visualização
 <p align="left">
@@ -22,7 +28,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
-  </p>
+</p>
 
 ### Deployment e Ambiente
 <p align="left">
@@ -34,7 +40,5 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
 ---
 
 ### Contato
-**LinkedIn:** Bruno Raphael Andrade Santos(www.linkedin.com/in/bruno-raphael-andrade-48816b334)
+**LinkedIn:** [Bruno Raphael Andrade Santos](https://www.linkedin.com/in/bruno-raphael-andrade-48816b334)
 **Email:** brunorafha4@gmail.com
-
-
