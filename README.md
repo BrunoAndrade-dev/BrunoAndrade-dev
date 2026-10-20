@@ -1,44 +1,44 @@
 # Olá! Eu sou Bruno Andrade 👋
 
-Sou um acadêmico de Engenharia de Computação com paixão por Análise de Dados e Desenvolvimento Web. Atualmente, faço parte do Laboratório de Engenharia Aplicada (LEA), atuando com Análise de Dados Sociais em Python.
+Engenheiro de Computação em formação com foco em **Desenvolvimento Back-end**, **Arquitetura de Sistemas** e **Tecnologias Web**.
+
+Atualmente, atuo na criação e desenvolvimento de sistemas completos (end-to-end) em ambientes de pesquisa e projetos aplicados, além de exercer o papel de **Professor / Instrutor de Programação na @Kodland**, onde compartilho conhecimento e impulsiono novos talentos na tecnologia.
 
 ---
 
-## Minhas Habilidades
+## 🛠️ Tecnologias & Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
-
-### Linguagens & Ferramentas Essenciais
+### Back-end & Banco de Dados
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+### Front-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</p>
+
+### DevOps & Controle de Versão
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-### Desenvolvimento Back-end
+### Gestão de Projetos & Metodologias Ágeis (Kanban)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-</p>
-
-### Data Science, Machine Learning & Visualização
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
-</p>
-
-### Deployment e Ambiente
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
 </p>
 
 ---
 
-### Contato
-**LinkedIn:** [Bruno Raphael Andrade Santos](https://www.linkedin.com/in/bruno-raphael-andrade-48816b334)
-**Email:** brunorafha4@gmail.com
+## 📫 Contato
+
+- **LinkedIn:** [Bruno Raphael Andrade Santos](https://www.linkedin.com/in/bruno-raphael-andrade-48816b334)
+- **E-mail:** [brunorafha4@gmail.com](mailto:brunorafha4@gmail.com)
