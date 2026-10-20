@@ -2,7 +2,7 @@
 
 Engenheiro de Computação em formação com foco em **Desenvolvimento Back-end**, **Arquitetura de Sistemas** e **Tecnologias Web**.
 
-Atualmente, atuo na criação e desenvolvimento de sistemas completos (end-to-end) em ambientes de pesquisa e projetos aplicados, além de exercer o papel de **Professor / Instrutor de Programação na @Kodland**, onde compartilho conhecimento e impulsiono novos talentos na tecnologia.
+Atualmente, atuo na criação e desenvolvimento de sistemas completos (end-to-end) no grupo NARA (Núcleo de Análise e Recursos Analíticos), além de exercer o papel de **Professor / Instrutor de Programação na @Kodland**, onde compartilho conhecimento com crianças e jovens, impulsionando novos talentos na tecnologia.
 
 ---
 
